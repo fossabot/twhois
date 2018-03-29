@@ -45,6 +45,8 @@ Whois-like command-line tool and Ruby Gem for Twitter users
 
 
 ## Note on Patches/Pull Requests
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjimeh%2Ftwhois.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjimeh%2Ftwhois?ref=badge_shield)
+
  
 * Fork the project.
 * Make your feature addition or bug fix.
@@ -77,3 +79,6 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjimeh%2Ftwhois.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjimeh%2Ftwhois?ref=badge_large)
